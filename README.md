@@ -18,7 +18,7 @@ The `main` branch holds the final state of the code when in the course.
 
 When switching from one exercise files branch to the next after making changes to the files, you may get a message like this:
 
-    error: Your local changes to the following files would be overwritten by checkout:
+    error: Your local changes to the following files would be overwritten by checkout::
     Please commit your changes or stash them before you switch branches.
 
 To resolve this issue:
